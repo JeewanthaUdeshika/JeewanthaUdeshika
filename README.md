@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=header&text=Hi%20There!&fontSize=60)
 
-<h1 align="center">Hi 👋, I'm Jeewantha Udeshika Ariyawansha</h1>
+<h1 align="center">I'm Jeewantha Udeshika Ariyawansha</h1>
 <h3 align="center">A Computer Engineering Undegraduate in University of Peradeniya, Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeewanthaudeshika&label=Profile%20views&color=0e75b6&style=flat" alt="jeewanthaudeshika" /> </p>
@@ -33,3 +33,5 @@
 <p>&nbsp</p>
 
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=auto&animation=fadeIn&height=160&section=footer)
